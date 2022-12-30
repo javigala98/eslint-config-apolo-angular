@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-apolo-angular",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint configuration for angular projects based on apolo",
   "main": "index.js",
   "scripts": {
@@ -26,19 +26,19 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javigala98/eslint-config-apolo.git"
+    "url": "git+https://github.com/javigala98/eslint-config-apolo-angular.git"
   },
   "bugs": {
-    "url": "https://github.com/javigala98/eslint-config-apolo/issues"
+    "url": "https://github.com/javigala98/eslint-config-apolo-angular/issues"
   },
-  "homepage": "https://github.com/javigala98/eslint-config-apolo#readme",
+  "homepage": "https://github.com/javigala98/eslint-config-apolo-angular#readme",
   "dependencies": {
     "@angular-eslint/eslint-plugin": "^15.1.0",
     "@angular-eslint/eslint-plugin-template": "^15.1.0",
     "eslint": "^8.30.0",
     "eslint-config-apolo": "1.0.4",
     "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-prettier": "^4.2.1"
+    "eslint-plugin-prettier": "4.2.1"
   },
   "peerDependencies": {
     "@angular-eslint/eslint-plugin": "15.1.0",
