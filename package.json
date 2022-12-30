@@ -1,0 +1,50 @@
+{
+  "name": "eslint-config-apolo-angular",
+  "version": "1.0.0",
+  "description": "ESLint configuration for angular projects based on apolo",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --report-unused-disable-directives .",
+    "lint-fix": "eslint --fix ."
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "typescript",
+    "javascript",
+    "styleguide",
+    "angular",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018",
+    "es2021",
+    "eslint"
+  ],
+  "author": "Javier Gala Bermejo <Twitter: @jgalaber>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javigala98/eslint-config-apolo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/javigala98/eslint-config-apolo/issues"
+  },
+  "homepage": "https://github.com/javigala98/eslint-config-apolo#readme",
+  "devDependencies": {
+    "@angular-eslint/eslint-plugin": "^15.1.0",
+    "@angular-eslint/eslint-plugin-template": "^15.1.0",
+    "eslint": "^8.30.0",
+    "eslint-config-apolo": "^1.0.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "peerDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-apolo": "^1.0.0"
+  },
+  "engines": {
+    "node": "^10.12.0 || >=12.0.0"
+  }
+}
