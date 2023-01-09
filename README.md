@@ -17,7 +17,7 @@ npm install --save-dev eslint-config-apolo-angular@1.0.0 // Or can select versio
 ...,
 "extends": [
 		...,
-		"apolo"
+		"apolo-angular"
 	]
 }
 ```
