@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-apolo-angular",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ESLint configuration for angular projects based on apolo",
   "main": "index.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "@angular-eslint/eslint-plugin": "15.1.0",
     "@angular-eslint/eslint-plugin-template": "15.1.0",
     "eslint": "8.31.0",
-    "eslint-config-apolo": "github:javigala98/eslint-config-apolo#develop",
+    "eslint-config-apolo": "1.0.5",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1"
   },
