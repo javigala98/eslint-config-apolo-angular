@@ -33,10 +33,10 @@
   },
   "homepage": "https://github.com/javigala98/eslint-config-apolo-angular#readme",
   "dependencies": {
-    "@angular-eslint/eslint-plugin": "^15.1.0",
-    "@angular-eslint/eslint-plugin-template": "^15.1.0",
-    "eslint": "^8.30.0",
-    "eslint-config-apolo": "1.0.4",
+    "@angular-eslint/eslint-plugin": "15.1.0",
+    "@angular-eslint/eslint-plugin-template": "15.1.0",
+    "eslint": "8.30.0",
+    "eslint-config-apolo": "github:javigala98/eslint-config-apolo#develop",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1"
   },
@@ -44,7 +44,6 @@
     "@angular-eslint/eslint-plugin": "15.1.0",
     "@angular-eslint/eslint-plugin-template": "15.1.0",
     "eslint": "8.30.0",
-    "eslint-config-apolo": "1.0.4",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1"
   },
